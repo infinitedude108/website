@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://swagmode.net/background.gif');
 *{
     margin: 0;
     padding: 0;
@@ -12,7 +11,7 @@ html {
 }
 
 body { 
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(background.gif);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://swagmode.net/background.gif);
     background-size: cover;
     background-position: center;
 }
