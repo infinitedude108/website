@@ -11,7 +11,7 @@ html {
 }
 
 body { 
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://swagmode.net/background.gif);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://raw.githubusercontent.com/swagmode/SwagParty/main/background.gif);
     background-size: cover;
     background-position: center;
 }
